@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi, I'm Mohasin Akonda</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hazrat ali akonda</h1>
+<h3 align="center">Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohasinakonda&label=Profile%20views&color=0e75b6&style=flat" alt="mohasinakonda" /> </p>
 
 - 🌱 I’m currently learning **Frontend web development**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Javascript, React,Typescript,Nextjs**
 
 - 📫 Here find me **mohasinakonda39@gmail.com**
 
