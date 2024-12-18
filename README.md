@@ -9,7 +9,7 @@
 
 <br><br>
 
-- 🏆 I am  `Frontend` at [Technopers](https://technopers.com) from `October 2022-present`.
+- 🏆 I am  `Frontend` at [Cronix LLC](https://cronixweb.com) from `Feb 2023-present`.
 - 🧑‍ I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, please drop a change here 📧 [mohasinakonda39@gmail.com](mohasinakonda39@gmail.com).
