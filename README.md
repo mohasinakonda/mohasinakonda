@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Hazrat ali aknoda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Hazrat Ali Aknoda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
@@ -9,13 +9,13 @@
 
 <br><br>
 
-- 🏆 I am  `Frontend` at [Cronix LLC](https://cronixweb.com) from `Feb 2023-present`.
+- 🏆 I worked  `Frontend developer` at [Cronix LLC](https://cronixweb.com) from `Feb 2023-Apr 2026`.
 - 🧑‍ I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, please drop a change here 📧 [mohasinakonda39@gmail.com](mohasinakonda39@gmail.com).
 <!--  -->
 <h3 align="left">Languages and Tools:</h3>
-- NextJS, Typescript, JavaScript, React, TailwindCSS, 
+- React, NextJS, JavaScript, Typescript, NodeJs, TailwindCSS, CSS3, Semantic HTML, Responsive Design, Cursor, Codex, 
 
 <!--  -->
 
