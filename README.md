@@ -32,20 +32,6 @@ Cursor, GitHub Copilot, OpenAI API, Claude
 
 ---
 
-##  Core Engineering
-
-* Frontend & Component Architecture
-* Reusable UI Systems
-* TypeScript & Type Safety
-* State Management & Data Fetching
-* REST API Integration
-* Authentication & Authorization
-* Performance Optimization
-* Responsive Design & Accessibility
-* SEO
-* Testing & Debugging
-* Git & Version Control
-
 ## Professional Experience
 
 Built and maintained production web applications with a focus on:
@@ -58,13 +44,6 @@ Built and maintained production web applications with a focus on:
 * Improving performance and user experience
 * Collaborating with backend developers and development teams
 * Maintaining and improving existing applications
-
-
-## Engineering Philosophy
-
-> **Write code that is easy to understand, easy to maintain, and built to scale.**
-
-**Reliable, Performant, Accessible, Maintainable, Scalable**
 
 ---
 
