@@ -1,33 +1,81 @@
+# Hi, I'm Hazrat Akonda 👋
 
-<h1 align="center">Hi , I'm Hazrat Ali Aknoda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+### Frontend Developer, React, Next.js, TypeScript
 
-<br>
+Frontend developer focused on building **scalable, performant, and maintainable web applications** with modern JavaScript technologies.
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+I specialize in **React, Next.js, TypeScript, frontend architecture, reusable components, API integration, state management, and performance optimization**.
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-- 🏆 I worked  `Frontend developer` at [Cronix LLC](https://cronixweb.com) from `Feb 2023-Apr 2026`.
-- 🧑‍ I love using Software as a solution for every `Problem`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, please drop a change here 📧 [mohasinakonda39@gmail.com](mohasinakonda39@gmail.com).
-<!--  -->
-<h3 align="left">Languages and Tools:</h3>
-- React, NextJS, JavaScript, Typescript, NodeJs, TailwindCSS, CSS3, Semantic HTML, Responsive Design, Cursor, Codex, 
+**Open to Remote Frontend / Senior Frontend opportunities**
 
-<!--  -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hazrat-ali-akonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohasinakonda" height="30" width="40" /></a>
+## Tech Stack
 
-</p>
+**Frontend:**
+JavaScript, TypeScript, React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+
+**State & Data:**
+TanStack Query, Redux Toolkit, Zustand, REST APIs, Axios, Server Actions
+
+**Backend & Databases:**
+Node.js, Express.js, MongoDB, Firebase, Supabase
+
+**Testing & Quality:**
+Jest, React Testing Library, Playwright, ESLint, Prettier
+
+**DevOps & Tools:**
+Git, GitHub, Vercel, Docker, CI/CD, Figma
+
+**AI-Assisted Development:**
+Cursor, GitHub Copilot, OpenAI API, Claude
+
+---
+
+##  Core Engineering
+
+* Frontend & Component Architecture
+* Reusable UI Systems
+* TypeScript & Type Safety
+* State Management & Data Fetching
+* REST API Integration
+* Authentication & Authorization
+* Performance Optimization
+* Responsive Design & Accessibility
+* SEO
+* Testing & Debugging
+* Git & Version Control
+
+## Professional Experience
+
+Built and maintained production web applications with a focus on:
+
+* Developing responsive and reusable React interfaces
+* Building Next.js applications with TypeScript
+* Integrating REST APIs and backend services
+* Managing application state and server data
+* Designing scalable component architecture
+* Improving performance and user experience
+* Collaborating with backend developers and development teams
+* Maintaining and improving existing applications
 
 
+## Engineering Philosophy
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohasinakonda&show_icons=true&locale=en&layout=compact" alt="mohasinakonda" /></p>
+> **Write code that is easy to understand, easy to maintain, and built to scale.**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohasinakonda&show_icons=true&locale=en" alt="mohasinakonda" /></p>
+**Reliable, Performant, Accessible, Maintainable, Scalable**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohasinakonda&" alt="mohasinakonda" /></p>
+---
 
+##  Let's Connect
 
+I'm currently interested in **Remote Frontend and Senior Frontend Developer opportunities**.
+
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hazrat-ali-akonda/)
+* **Portfolio:** [GitHub](hazrat.vercel.app)
+* **Email:** [mohasinakonda39@gmail.com](mailto:mohasinakonda39@gmail.com)
+
+---
+
+⭐ Feel free to explore my repositories and check out my projects.
